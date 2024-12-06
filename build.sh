@@ -1,0 +1,1 @@
+docker run -it -v $(pwd)/buildfiles:/buildfiles golang /bin/bash /buildfiles/buildscript.sh
